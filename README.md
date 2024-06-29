@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 👨‍💻 All of my projects are available at [ungu.in/SunStudio-Porto](ungu.in/SunStudio-Porto)
+- 👨‍💻 All of my projects are available at [ungu.in/SunStudio-Porto](https://ungu.in/SunStudio-Porto)
 
 - 💬 Ask me about **Laravel**
 
 - 📫 How to reach me **Mahsunmuh0@gmail.com**
 
-- 📄 Know about my curriculum vitae on [ungu.in/M-Mahsun-B-CurriculumVitae](ungu.in/M-Mahsun-B-CurriculumVitae)
+- 📄 Know about my curriculum vitae on [ungu.in/M-Mahsun-B-CurriculumVitae](https://ungu.in/M-Mahsun-B-CurriculumVitae)
 
 - ⚡ Fun fact **Like Techital or Auto-battler Game**
 
