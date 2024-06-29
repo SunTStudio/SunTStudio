@@ -1,8 +1,8 @@
-![MasterHead](https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
+![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
 
 <h1 align="center">Hi 👋, I'm M Mahsun Badrtutamam</h1>
 <h3 align="center">A passionate Fullstack Web Developer from ID</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suntstudio&label=Profile%20views&color=0e75b6&style=flat" alt="suntstudio" /> </p>
 
