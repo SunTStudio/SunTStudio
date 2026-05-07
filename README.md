@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **Mahsunmuh0@gmail.com**
 
-- 📄 Know about my curriculum vitae on [ungu.in/M-Mahsun-B-CurriculumVitae](https://ungu.in/M-Mahsun-B-CurriculumVitae)
+- 📄 Know about my curriculum vitae on [https://portofolio-mahsun-btamam.page.gd/)
 
 - ⚡ Fun fact **Like Techital or Auto-battler Game**
 
